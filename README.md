@@ -1,6 +1,6 @@
-# paper2023
+# Xin 2025 Computers in Biology and Medicine
 
-This is the repository for Randy's Biometric paper in 2023
+This is the repository for Randy's paper (Xin 2025 Computers in Biology and Medicine)
 We have verified that re-running the supplement’s code on the supplement’s data according to the instructions in the included README file.
 We have revised, cleaned up and documented the code files in this supplement to make sure
 that they follow commonly accepted standards for scientific computing.
