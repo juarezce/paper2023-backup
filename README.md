@@ -1,4 +1,4 @@
-# Xin 2025 Computers in Biology and Medicine
+# Xin 2025 CIBM
 
 This is the repository for Randy's paper (Xin 2025 Computers in Biology and Medicine)
 We have verified that re-running the supplement’s code on the supplement’s data according to the instructions in the included README file.
@@ -8,7 +8,7 @@ The code and data supplement contains all code and data needed to reproduce all 
 
 - The main codes of functions and objects are stored under `paper2023/R` folder
 
-  - Please load this the `00_fucntions.R` first before running the .Rmd files
+  - Please load this the `00_functions.R` first before running the .Rmd files
   
   - The working dataset is stored in `train_test.rda` file
 
