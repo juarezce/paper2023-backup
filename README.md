@@ -1,6 +1,6 @@
 # Xin 2025 CIBM
 
-This is the repository for Randy's paper (Xin 2025 Computers in Biology and Medicine)
+Repository for Randy's paper (Xin 2025 Computers in Biology and Medicine)
 We have verified that re-running the supplement’s code on the supplement’s data according to the instructions in the included README file.
 We have revised, cleaned up and documented the code files in this supplement to make sure
 that they follow commonly accepted standards for scientific computing.
